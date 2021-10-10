@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Select } from './components';
-import { fakeApi } from '@lib/index';
+import { fakeApi } from '@lib';
 
 function App() {
   return (
